@@ -13,13 +13,13 @@ Greetings, digital wanderers! I'm **Pragnesh Singh**, your companion on this thr
 ## Connect with Me 🌐
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/pragnesh-singh-rajput">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourusername/">
+  <a href="https://www.linkedin.com/in/pragnesh-singh-rajput">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/yourusername/">
+  <a href="https://www.instagram.com/pragnesh_singh_rajput">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
