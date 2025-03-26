@@ -22,6 +22,9 @@ Greetings, digital wanderers! I'm **Pragnesh Singh**, your companion on this thr
   <a href="https://www.instagram.com/pragnesh_singh_rajput">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
+  <a href="https://pragnesh-singh-rajput.netlify.app/">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/web.svg" alt="Portfolio" width="40" height="40"/>
+  </a>
 </p>
 
 ## Repository Overview 📂
