@@ -13,7 +13,6 @@
 **Cybersecurity Professional · SOC & DFIR Specialist · Founder & CTO @ VayuX Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pragneshsingh-rajput)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white)](https://pragneshsingh.works)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:singhpragnesh89@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/pragnesh-singh-rajput)
 
@@ -186,9 +185,6 @@ initiative. Case records, status tracking, advanced search.
 - **The Hackers Meetup – Vadodara Chapter** · CTF Architect & Event Moderator  
   Designing offensive security challenges and anchoring technical meetups for one of India's most active
   cybersecurity communities.
-
-- **Bharat First Shield** · Open Source Contributor  
-  Contributing security-focused tooling for law enforcement use cases.
 
 ---
 
