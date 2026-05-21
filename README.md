@@ -13,6 +13,7 @@
 **Cybersecurity Professional · SOC & DFIR Specialist · Founder & CTO @ VayuX Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pragneshsingh-rajput)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white)](https://pragneshsingh.works)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:singhpragnesh89@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/pragnesh-singh-rajput)
 
@@ -123,7 +124,7 @@ Raw Alerts (1000s/day)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
-<span style="display:none">
+
 ## Featured Projects
 
 ### 🛡️ [VayuX AI-SOC Platform](https://vayux.systems)
@@ -152,8 +153,6 @@ initiative. Case records, status tracking, advanced search.
 `TypeScript` `React` `Node.js` · ⭐ 3
 
 ---
-</span>
-
 
 ## Certifications
 
@@ -169,11 +168,14 @@ initiative. Case records, status tracking, advanced search.
 
 <div align="center">
 
-![Pragnesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pragnesh-singh-rajput&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9)
+![Profile Views](https://komarev.com/ghpvc/?username=pragnesh-singh-rajput&style=flat-square&color=00e5a0&label=PROFILE+VIEWS)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pragnesh-singh-rajput&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&text_color=c9d1d9)
+<!-- Stats card — auto-generated via GitHub Actions, see .github/workflows/stats.yml -->
+![GitHub Stats](./profile/stats.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pragnesh-singh-rajput&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00e5a0&fire=00e5a0&currStreakLabel=00e5a0)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=pragnesh-singh-rajput&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00e5a0&fire=00e5a0&currStreakLabel=00e5a0)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pragnesh-singh-rajput&theme=darkhub&no-frame=true&row=1&column=6&margin-w=4)
 
 </div>
 
