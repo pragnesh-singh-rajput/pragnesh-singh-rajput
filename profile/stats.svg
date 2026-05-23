@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">PragneshKumar Singh's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 21, Total Commits  : 205, Total PRs: 12, Total Issues: 4, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 21, Total Commits  : 214, Total PRs: 12, Total Issues: 4, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 198.70028553019358;
+        stroke-dashoffset: 198.4742943449305;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >205</text>
+      >214</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
