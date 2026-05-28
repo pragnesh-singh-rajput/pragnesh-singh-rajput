@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">PragneshKumar Singh's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 21, Total Commits  : 214, Total PRs: 12, Total Issues: 4, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 21, Total Commits  : 214, Total PRs: 12, Total Issues: 4, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >4</text>
+      >3</text>
     </g>
   </g>
     </svg>
